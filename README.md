@@ -31,6 +31,7 @@ Fugitive Emissions, Energy, Electricity/Heat, Bunker Fuels, Building
 Principle_Component_Analysis/
 │
 ├── PCA_Formative_2_Group_58.ipynb   # Main notebook (all outputs visible)
+├── tasksheet.pdf                    # The tasksheet
 ├── co2 Emission Africa.csv          # Dataset
 └── README.md                        # This file
 ```
